@@ -16,7 +16,7 @@ This repository contains my personal projects to prepare for global internship p
 **Tech Stack:** scikit-learn, TensorFlow\
 **Goal:** Displaying the ability to implement AI in web environments.\
 ### 3. "Recommend For You" App
-**Feature:** A recommendation engine for some categories based on user input.\
+**Feature:** A recommendation engine for movies based on user input.\
 **Tech Stack:** Python conditional logic, Ranking algrithums\
 **Goal:** Implementing the business logic and database handling.\
 
